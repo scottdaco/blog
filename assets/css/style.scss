@@ -5,3 +5,17 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+$fs: 30px;
+$c: #d1d1e0;
+$f: Helvetica;
+
+body {
+    font-size: $fs;
+    font-family: $f;
+    color: $c;
+}
+
+p {
+    text-emphasis-color: $c;
+}
