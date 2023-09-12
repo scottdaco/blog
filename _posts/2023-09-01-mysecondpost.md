@@ -8,14 +8,14 @@ author: scott
 
 Using md and scss where new things but I found them easy to use so I didnt struggle very much. here are some lizards except the images wont load for some reason.
 
-![aligator](aligatorlizard.jpg)
+![aligator](https://github.com/scottdaco/blog/blob/master/_posts/aligatorlizard.jpg)
 
 [lizardlink](https://en.wikipedia.org/wiki/Mexican_alligator_lizard)
 
 &nbsp;
 
 
-![beard](beardlizard.jpg)
+![beard](https://github.com/scottdaco/blog/blob/master/_posts/beardlizard.jpg)
 &nbsp;
 
 &nbsp;
