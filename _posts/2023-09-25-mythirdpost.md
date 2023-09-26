@@ -7,4 +7,4 @@ author: scott
 
 
 
-![Entity relationship diagram](https://github.com/scottdaco/blog/tree/master/_posts/ERD.png?raw=true)
+![Entity relationship diagram](https://github.com/scottdaco/blog/blob/master/_posts/ERD.png?raw=true)
